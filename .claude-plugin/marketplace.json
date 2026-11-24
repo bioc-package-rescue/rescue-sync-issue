@@ -1,0 +1,11 @@
+{
+  "name": "bioc-package-rescue",
+  "owner": { "name": "bioc-package-rescue" },
+  "plugins": [
+    {
+      "name": "rescue-sync-issue",
+      "source": "./",
+      "description": "Notify maintainers of rescued Bioconductor packages and tell them how to sync their GitHub repository with the Bioconductor linear history"
+    }
+  ]
+}
