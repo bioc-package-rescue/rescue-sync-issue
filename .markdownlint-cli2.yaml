@@ -1,0 +1,8 @@
+# The issue template is a GitHub issue body: GitHub renders line breaks there,
+# so its paragraphs must stay on one line, and <placeholders> are not HTML.
+ignores:
+  - "skills/*/references/**"
+config:
+  MD013:
+    tables: false
+    code_blocks: false

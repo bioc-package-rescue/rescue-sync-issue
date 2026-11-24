@@ -28,7 +28,7 @@ skill opens an issue on that repository that:
 
 As a Claude Code plugin:
 
-```
+```text
 /plugin marketplace add bioc-package-rescue/rescue-sync-issue
 /plugin install rescue-sync-issue@bioc-package-rescue
 ```
