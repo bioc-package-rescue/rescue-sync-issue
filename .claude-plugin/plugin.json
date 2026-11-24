@@ -1,7 +1,7 @@
 {
   "name": "rescue-sync-issue",
   "description": "Notify maintainers of rescued Bioconductor packages and tell them how to sync their GitHub repository with the Bioconductor linear history",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": { "name": "bioc-package-rescue" },
   "repository": "https://github.com/bioc-package-rescue/rescue-sync-issue"
 }
